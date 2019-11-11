@@ -1,1 +1,1 @@
-Using python to simulate soliton collisions
+Using matlab to simulate soliton collisions
